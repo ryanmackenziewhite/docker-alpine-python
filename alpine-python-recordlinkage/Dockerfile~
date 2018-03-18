@@ -1,0 +1,4 @@
+FROM alpine-python-dsbase:latest
+
+RUN pip install recordlinkage 
+    
